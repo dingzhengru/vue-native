@@ -8,7 +8,7 @@
 export default {
     data: function() {
         return {
-            msg: "Hello World"
+            msg: "Hello Worasdld"
         }
     }
 };

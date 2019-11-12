@@ -23,6 +23,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android": {
+      "package": "vue.andoird.helloWorld"
+    },
     "ios": {
       "supportsTablet": true
     },

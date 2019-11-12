@@ -45,10 +45,20 @@ app.json
 Run the app
 ```
 cd <projectName>
-npm start
+npm start or expo start
 ```
-或是指定平台  
+指定平台  
 ```
 npm run ios
 npm run android
 ```
+
+## 建立apk,ipa
+**另一個視窗要執行著```npm start``` or ```expo start```時**
+同時執行以下指令才會成功  
+```expo build:android```  
+```expo build:ios```  
+執行成功後可以到expo官網 => View IPA/APK builds => 等待建立完成即可下載  
+
+**會遇到的錯誤**
+1. Set EXPO_DEBUG=true 在專案路徑直接輸入 ```Set EXPO_DEBUG=true```
