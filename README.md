@@ -5,7 +5,7 @@
 *  <a href="#installation">Installation</a>
 
 ## What is Vue Native?
-**Vue.js => Vue Native => React Native**   
+**Vue.js => Vue Native => React Native(然後React Native又依賴於Expo)**   
 **Vue Native 依賴於 React Native，實際上，所有的.vue文件都會編譯成以.js後綴的React Native組件**  
 
 <img src="https://i.imgur.com/3orw71q.png" height="200">
