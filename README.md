@@ -17,7 +17,7 @@
 3. 專案開出來之後，expo會優先判定app.js為入口檔案，所以先**將app.js刪除**，就會將app.vue當入口了
 ## Installation
 
-## For Expo users
+### For Expo users
 ```
 npm install --global expo-cli
 
